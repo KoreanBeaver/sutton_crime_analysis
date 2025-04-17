@@ -29,9 +29,11 @@ It includes data collection, trend analysis, and geospatial visualization to ide
 
 ## 🗺️ Example Visualizations
 ![](images/crime_type_distribution.png)
+![](images/total_crimes.png)
 ![](images/monthly_trend.png)
-- [Interactive Map: Violent Crimes in Sutton](maps/violent_crimes_sutton_map.html)
-- [Top 5 Streets Map](maps/top5_crime_streets_map.html)
+![](images/top5_crime_street.png)
+![](images/violent_crimes_sutton.png)
+![](images/top5_crime_street.png)
 
 ## 🚀 How to Run
 1. Clone this repo
