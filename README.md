@@ -22,10 +22,12 @@ It includes data collection, trend analysis, and geospatial visualization to ide
 - Built interactive maps showing crime locations
 
 ## 📊 Key Insights
-- Violent crimes dropped sharply in January, then rose again in February
-- Most other crimes (e.g., shoplifting, vehicle crime) peaked in January, possibly due to post-holiday economic stress
-- Anti-social behaviour was consistently high across months
-- The top 5 crime-prone streets were visualized using Folium maps
+
+- **Violent crime** showed a sharp drop in January, likely due to reduced social activity during the post-holiday period, followed by a rebound in February.
+- **Shoplifting, vehicle crime, and burglary** all surged in January, suggesting a potential link to post-holiday economic stress or seasonal shopping patterns.
+- **Anti-social behaviour** remained consistently high across all months, indicating ongoing issues with public disturbances in residential areas.
+- **The majority of crimes were concentrated in a small number of streets**, suggesting that police patrols and community interventions can be more effective if geographically focused.
+
 
 ## 🗺️ Example Visualizations
 ![](images/crime_type_distribution.png)
@@ -34,6 +36,25 @@ It includes data collection, trend analysis, and geospatial visualization to ide
 ![](images/top5_crime_street.png)
 ![](images/violent_crimes_sutton.png)
 ![](images/top5_crime_street.png)
+
+## 🚓 Data-Driven Patrol & Policy Recommendations
+
+Based on the spatial and temporal patterns identified in the data, several strategies can be proposed to improve public safety in Sutton:
+
+- **Targeted Patrol Zones:**  
+  The top 10 streets with the highest number of violent crimes were identified. Concentrated police presence in these hotspots can serve as a deterrent and provide faster response times.
+
+- **Shoplifting Mitigation:**  
+  The spike in shoplifting incidents in January may be linked to post-holiday financial pressure. Retailers and local authorities could consider coordinated awareness campaigns or increased surveillance during this period.
+
+- **Anti-Social Behaviour Monitoring:**  
+  Since anti-social behaviour incidents remain persistently high, especially in residential areas, community outreach programs, neighborhood watch systems, and environmental design (e.g., better lighting) should be considered.
+
+- **Seasonal Resource Allocation:**  
+  Law enforcement and community safety efforts can be planned seasonally, with heightened attention in high-risk months like January and February, based on crime type trends.
+
+These recommendations are made based on real location-based crime data and can be used by public safety stakeholders to make informed decisions.
+
 
 ## 🚀 How to Run
 1. Clone this repo
