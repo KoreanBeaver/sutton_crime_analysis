@@ -55,6 +55,9 @@ Based on the spatial and temporal patterns identified in the data, several strat
 
 These recommendations are made based on real location-based crime data and can be used by public safety stakeholders to make informed decisions.
 
+## 📈 PowerBI Dashboard
+![](images/powerbi_dashboard.png)
+
 
 ## 🚀 How to Run
 1. Clone this repo
